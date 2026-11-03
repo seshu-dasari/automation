@@ -1,0 +1,5 @@
+.venv/
+backups/*
+!backups/.gitkeep
+__pycache__/
+*.retry
